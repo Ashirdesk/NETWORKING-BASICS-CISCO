@@ -62,6 +62,3 @@ This repository is part of my networking and DevOps learning portfolio, where I 
 
 Author: Ashir Ahmad
 
-
-Ab tumhari repository ek proper professional GitHub portfolio repo jaisi lagegi.
-
